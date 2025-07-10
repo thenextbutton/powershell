@@ -11,6 +11,10 @@ Welcome to my repository of PowerShell scripts! These are some of the scripts I 
 
 * **`lastlogon.ps1`**
     This script queries **Active Directory** to retrieve the **last logon date** for active user accounts. Since the `lastLogon` attribute is not replicated efficiently across domain controllers, the script queries **every DC** in the domain to ensure the most accurate and up-to-date value is returned.
+
+* **`no_sounds.ps1`**
+    This script modifies the **Windows Registry** to **disable all system sounds** during a user session, ensuring no "pings" or "dings" occur.
+
 <br>
 
 
