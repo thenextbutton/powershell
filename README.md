@@ -38,7 +38,8 @@ Feel free to open an issue or submit a pull request if you have suggestions for 
 
 
 ## 📄 License
-<br><br>
+
+This project is licensed under the MIT License.
 
 
 
