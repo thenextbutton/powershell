@@ -25,7 +25,7 @@ Welcome to my repository of PowerShell scripts! These are some of the scripts I 
     This script modifies the **Windows Registry** to **disable all system sounds** during a user session, ensuring no "pings" or "dings" occur.
 
 * **`notification_icons.ps1`**
-    This script modifies the **Windows Registry** to **display all notification icosns** in the notification area, rather than being in the overflow.
+    This script modifies the **Windows Registry** to **display all notification icons** in the notification area, rather than being in the overflow.
 <br>
 
 
