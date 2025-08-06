@@ -1,4 +1,13 @@
-🚀 PowerShell Scripts
+# 🚀 PowerShell Scripts
+
+[![Language: PowerShell](https://img.shields.io/badge/Language-PowerShell-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/thenextbutton/powershell)](https://github.com/thenextbutton/powershell/commits/main)
+[![GitHub Issues](https://img.shields.io/github/issues/thenextbutton/powershell)](https://github.com/thenextbutton/powershell/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/thenextbutton/powershell)](https://github.com/thenextbutton/powershell/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/thenextbutton/powershell?style=social)](https://github.com/thenextbutton/powershell/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/thenextbutton/powershell/blob/main/LICENSE)
+
+---
 
 Welcome to my repository of PowerShell scripts! These are some of the scripts I commonly use for various administrative tasks.
 
